@@ -1,4 +1,4 @@
-turkmen-spell-check-dictionary
+Turkmen dictionary for hunspell
 ==============================
 
-Files related to Turkmen dictionary for hunspell spellchecker.
+Turkmen dictionary and affix files for hunspell spellchecker, in addition to plugins for various applications.
