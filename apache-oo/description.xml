@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="2014.02.05" />
+    <identifier value="com.enedilim.OOo-Dictionaries.tk-TM" />
+    <display-name>
+		<name lang="en">Turkmen (Turkmenistan) spelling dictionary</name>
+        <name lang="tk">Türkmen diliniň orfografik sözlügi</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+</description>
