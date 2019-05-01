@@ -1,7 +1,7 @@
 firefox:
 	mkdir -p build/firefox/dictionaries
 	cp tk_TM.* build/firefox/dictionaries
-	cp firefox-plugin/install.rdf build/firefox
+	cp firefox-plugin/manifest.json build/firefox
 	cd build/firefox && zip -r ../firefox-hunspell-tk.xpi . && cd ../../
 	rm -rf build/firefox
 openoffice:
