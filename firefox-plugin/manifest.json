@@ -2,7 +2,7 @@
     "dictionaries": {
         "tk": "dictionaries/tk_TM.dic"
     },
-    "version": "0.2.1.1webext",
+    "version": "0.3.1.1webext",
     "browser_specific_settings": {
         "gecko": {
             "id": "tk-TM@dictionaries.addons.mozilla.org"
